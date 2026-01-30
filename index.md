@@ -12,9 +12,33 @@ layout: default
 
 ---
 
-## Organizers
-- **Chairs:**
-- Dr. Eman Hammad (Texas A&M University), Dr. Jaewon Kim (Texas A&M Global Cyber Research Institute)
+<h2>Organizers</h2>
+
+<div style="display: flex; gap: 40px; flex-wrap: wrap;">
+
+  <!-- Eman -->
+  <div style="text-align: center;">
+    <img src="assets/images/eman-hammad.jpg"
+         alt="Dr. Eman Hammad"
+         style="width:180px; height:180px; border-radius:50%; object-fit:cover;">
+    <p style="margin-top:10px;">
+      <strong>Dr. Eman Hammad</strong><br>
+      Texas A&amp;M University
+    </p>
+  </div>
+
+  <!-- Jaewon -->
+  <div style="text-align: center;">
+    <img src="assets/images/jaewon-kim.jpg"
+         alt="Dr. Jaewon Kim"
+         style="width:180px; height:180px; border-radius:50%; object-fit:cover;">
+    <p style="margin-top:10px;">
+      <strong>Dr. Jaewon Kim</strong><br>
+      Texas A&amp;M Global Cyber Research Institute
+    </p>
+  </div>
+
+</div>
 
 ---
 
