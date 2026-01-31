@@ -21,7 +21,7 @@
   <div style="text-align: center; width: 220px;">
     <img src="images/eman-hammad.jpg"
          alt="Dr. Eman Hammad"
-         style="width:180px; height:180px; border-radius:50%; object-fit:cover;">
+         style="width:180px; height:270px; border-radius:50%; object-fit:cover;">
     <p style="margin-top:10px; line-height:1.4;">
       <strong>Dr. Eman Hammad</strong><br>
       <em>General Chair</em><br>
