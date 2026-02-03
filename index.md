@@ -4,7 +4,7 @@
 **Theme:** From Monolithic Brittleness to Composable Trust
 
 **Co-located with:** IEEE/IFIP DSN 2026  
-**Date & Location:** June 22, 2026 | Charlotte, NC, USA
+**Date & Location:** June 22 - 25, 2026 | Charlotte, NC, USA
 
 ---
 
