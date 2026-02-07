@@ -103,7 +103,7 @@ PDF, IEEE Computer Society 8.5x11 two-column format; double-blind review for reg
          alt="CRAI 2026 Flyer (PDF)"
          style="
            max-width: 800px;
-           width: 120%;
+           width: 100%;
            border: 1px solid #ccc;
            box-shadow: 0 2px 8px rgba(0,0,0,0.15);
          ">
