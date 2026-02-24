@@ -95,8 +95,6 @@ PDF, IEEE Computer Society 8.5x11 two-column format; double-blind review for reg
 - Notification: **April 15, 2026**
 - Camera-ready: **April 27, 2026**
 
----
-
 <h3 style="color: red;">Submission</h3>
 
 <p style="text-align: center; margin-top: 10px;">
@@ -114,6 +112,8 @@ PDF, IEEE Computer Society 8.5x11 two-column format; double-blind review for reg
      Submit your paper via EasyChair
   </a>
 </p>
+
+---
 
 <div style="margin-top: 30px; text-align: center;">
   <a href="files/CRAI2026_flyer.pdf" target="_blank">
