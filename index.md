@@ -32,7 +32,7 @@
 
   <!-- Co-Chair -->
   <div style="text-align: center; width: 220px;">
-    <img src="images/jaewon-kim-2.jpg"
+    <img src="images/jaewon-kim-3.jpg"
          alt="Dr. Jaewon Kim"
          style="width:180px; height:250px; border-radius:10%; object-fit:cover;">
     <p style="margin-top:10px; line-height:1.4;">
