@@ -98,7 +98,7 @@ PDF, IEEE Computer Society 8.5x11 two-column format; double-blind review for reg
 <h3 style="color: red;">Submission</h3>
 
 <p style="text-align: center; margin-top: 10px;">
-  <a href="https://easychair.org/conferences/submission_new?a=36191004"
+  <a href="https://easychair.org/my2/conference?conf=dsn_2026"
      target="_blank"
      style="
        display: inline-block;
